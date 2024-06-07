@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "風船",
+    "image": "20240523_balloon.png",
+    "category": "pixel"
+  },
+  {
+    "id": 2,
+    "title": "薬草",
+    "image": "20240524_yakusou.png",
+    "category": "pixel"
+  },
+  {
+    "id": 3,
+    "title": "剣",
+    "image": "20240525_sword.png",
+    "category": "pixel"
+  },
+  {
+    "id": 4,
+    "title": "骨",
+    "image": "20240526_pawn.png",
+    "category": "pixel"
+  },
+  {
+    "id": 5,
+    "title": "クリスタル",
+    "image": "20240527_jewelry.png",
+    "category": "pixel"
+  },
+  {
+    "id": 6,
+    "title": "リュックサック",
+    "image": "20240528_rucksack.png",
+    "category": "pixel"
+  },
+  {
+    "id": 7,
+    "title": "ソファ",
+    "image": "20240530_sofa.png",
+    "category": "pixel"
+  },
+  {
+    "id": 8,
+    "title": "目覚まし時計",
+    "image": "20240531_time.png",
+    "category": "pixel"
+  },
+  {
+    "id": 9,
+    "title": "ツボ",
+    "image": "20240601_pot.png",
+    "category": "pixel"
+  },
+  {
+    "id": 10,
+    "title": "弁当",
+    "image": "20240602_bento.png",
+    "category": "pixel"
+  },
+  {
+    "id": 11,
+    "title": "崩れた柱",
+    "image": "20240603_pillar.png",
+    "category": "pixel"
+  },
+  {
+    "id": 12,
+    "title": "ペットボトル",
+    "image": "20240604_petbottle.png",
+    "category": "pixel"
+  },
+  {
+    "id": 13,
+    "title": "サーティワン(ホッピングシャワー/コーン)",
+    "image": "20240605_31ice.png",
+    "category": "pixel"
+  },
+  {
+    "id": 14,
+    "title": "公衆電話",
+    "image": "20240605_dennwa.png",
+    "category": "pixel"
+  },
+  {
+    "id": 15,
+    "title": "ツボ",
+    "image": "20240601_pot.png",
+    "category": "pixel"
+  },
+  {
+    "id": 16,
+    "title": "初号機(出撃の姿)",
+    "image": "20240605_eva01.png",
+    "category": "pixel"
+  },
+  {
+    "id": 17,
+    "title": "メンダコぼっち",
+    "image": "20240606_botti.png",
+    "category": "pixel"
+  },
+  {
+    "id": 18,
+    "title": "苺のショートケーキ(一切れ)",
+    "image": "20240606_cake.png",
+    "category": "pixel"
+  },
+  {
+    "id": 19,
+    "title": "ポーション",
+    "image": "20240607_potion.png",
+    "category": "pixel"
+  },
+  {
+    "id": 20,
+    "title": "ダークオーブ(ソウルジェム)",
+    "image": "20240607_seoulgem.png",
+    "category": "pixel"
+  },
+  {
+    "id": 21,
+    "title": "クリーチャー",
+    "image": "20240608_creature.svg",
+    "category": "other"
+  },
+  {
+    "id": 22,
+    "title": "柊鰯",
+    "image": "20240608_hiiragi.svg",
+    "category": "other"
+  }
+]

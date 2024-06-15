@@ -91,7 +91,7 @@
   },
   {
     "id": 16,
-    "title": "初号機(出撃の姿)",
+    "title": "初号機(出撃シーン)",
     "image": "20240605_eva01.png",
     "category": "pixel"
   },
@@ -130,5 +130,107 @@
     "title": "柊鰯",
     "image": "20240608_hiiragi.svg",
     "category": "other"
+  },
+  {
+    "id": 23,
+    "title": "カシウスの槍",
+    "image": "20240607_cassius.svg",
+    "category": "pixel"
+  },
+  {
+    "id": 24,
+    "title": "公衆電話モチーフのプラモニュメント",
+    "image": "20240608_plastic_denwa.png",
+    "category": "pixel"
+  },
+  {
+    "id": 25,
+    "title": "樽",
+    "image": "20240608_taru.png",
+    "category": "pixel"
+  },
+  {
+    "id": 26,
+    "title": "寿司(マグロ)",
+    "image": "20240608_sushi.png",
+    "category": "pixel"
+  },
+  {
+    "id": 27,
+    "title": "岩",
+    "image": "20240609_iwa.png",
+    "category": "pixel"
+  },
+  {
+    "id": 28,
+    "title": "ペロロジラ",
+    "image": "20240609_perorozira.png",
+    "category": "pixel"
+  },
+  {
+    "id": 29,
+    "title": "レンガ壁",
+    "image": "20240610_renga.png",
+    "category": "pixel"
+  },
+  {
+    "id": 30,
+    "title": "オール・フォー・ワン",
+    "image": "20240610_allforone.png",
+    "category": "pixel"
+  },
+  {
+    "id": 31,
+    "title": "PC",
+    "image": "20240611_pc.png",
+    "category": "pixel"
+  },
+  {
+    "id": 32,
+    "title": "TV",
+    "image": "20240611_tv.png",
+    "category": "pixel"
+  },
+  {
+    "id": 33,
+    "title": "カメラ",
+    "image": "20240612_camera.png",
+    "category": "pixel"
+  },
+  {
+    "id": 34,
+    "title": "ラジカセ",
+    "image": "20240612_radio.png",
+    "category": "pixel"
+  },
+  {
+    "id": 35,
+    "title": "銀だこ(てりたま)",
+    "image": "20240612_takoyaki.png",
+    "category": "pixel"
+  },
+  {
+    "id": 36,
+    "title": "家",
+    "image": "20240613_home.png",
+    "category": "pixel"
+  },
+  {
+    "id": 37,
+    "title": "下北沢のツチノコ",
+    "image": "20240613_tutinokobotti.png",
+    "category": "pixel"
+  },
+  {
+    "id": 38,
+    "title": "クジラ",
+    "image": "20240614_kuzira.png",
+    "category": "pixel"
+  },
+  {
+    "id": 39,
+    "title": "ドードー",
+    "image": "20240614_dodo.png",
+    "category": "pixel"
   }
 ]

@@ -1,0 +1,127 @@
+;EDGE用アニメーションデータ
+ANIME_VERSION=1
+
+
+;--------------------------
+PATTERN_NAME=noname000
+
+	FRAME_NUMBER=1
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=0
+		SRC_Y=0
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=2
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=32
+		SRC_Y=0
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=3
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=64
+		SRC_Y=0
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=4
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=96
+		SRC_Y=0
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=5
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=0
+		SRC_Y=32
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=6
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=32
+		SRC_Y=32
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=7
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=64
+		SRC_Y=32
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+
+	FRAME_NUMBER=8
+		FILENAME=C:\Users\fcisg\デスクトップ\プロジェクト\ドット絵の道場\20240622\20240622_takibi.edg
+		WIN_TITLE=20240622_takibi.edg
+		SRC_X=96
+		SRC_Y=32
+		LAYER_NUM=0
+		WIDTH=32
+		HEIGHT=32
+		DEST_X=0
+		DEST_Y=0
+		DELAY=100
+		LAYER_ADD=1
+		CKEY_ENABLE=0
+		CKEY_NUM=0
+

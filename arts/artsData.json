@@ -1,236 +1,402 @@
 [
   {
-    "id": 1,
     "title": "風船",
     "image": "20240523_balloon.png",
     "category": "pixel"
   },
   {
-    "id": 2,
     "title": "薬草",
     "image": "20240524_yakusou.png",
     "category": "pixel"
   },
   {
-    "id": 3,
     "title": "剣",
     "image": "20240525_sword.png",
     "category": "pixel"
   },
   {
-    "id": 4,
     "title": "骨",
     "image": "20240526_pawn.png",
     "category": "pixel"
   },
   {
-    "id": 5,
     "title": "クリスタル",
     "image": "20240527_jewelry.png",
     "category": "pixel"
   },
   {
-    "id": 6,
     "title": "リュックサック",
     "image": "20240528_rucksack.png",
     "category": "pixel"
   },
   {
-    "id": 7,
     "title": "ソファ",
     "image": "20240530_sofa.png",
     "category": "pixel"
   },
   {
-    "id": 8,
     "title": "目覚まし時計",
     "image": "20240531_time.png",
     "category": "pixel"
   },
   {
-    "id": 9,
     "title": "ツボ",
     "image": "20240601_pot.png",
     "category": "pixel"
   },
   {
-    "id": 10,
     "title": "弁当",
     "image": "20240602_bento.png",
     "category": "pixel"
   },
   {
-    "id": 11,
     "title": "崩れた柱",
     "image": "20240603_pillar.png",
     "category": "pixel"
   },
   {
-    "id": 12,
     "title": "ペットボトル",
     "image": "20240604_petbottle.png",
     "category": "pixel"
   },
   {
-    "id": 13,
     "title": "サーティワン(ホッピングシャワー/コーン)",
     "image": "20240605_31ice.png",
     "category": "pixel"
   },
   {
-    "id": 14,
     "title": "公衆電話",
     "image": "20240605_dennwa.png",
     "category": "pixel"
   },
   {
-    "id": 15,
     "title": "ツボ",
     "image": "20240601_pot.png",
     "category": "pixel"
   },
   {
-    "id": 16,
     "title": "初号機(出撃シーン)",
     "image": "20240605_eva01.png",
     "category": "pixel"
   },
   {
-    "id": 17,
     "title": "メンダコぼっち",
     "image": "20240606_botti.png",
     "category": "pixel"
   },
   {
-    "id": 18,
     "title": "苺のショートケーキ(一切れ)",
     "image": "20240606_cake.png",
     "category": "pixel"
   },
   {
-    "id": 19,
     "title": "ポーション",
     "image": "20240607_potion.png",
     "category": "pixel"
   },
   {
-    "id": 20,
     "title": "ダークオーブ(ソウルジェム)",
     "image": "20240607_seoulgem.png",
     "category": "pixel"
   },
   {
-    "id": 21,
     "title": "クリーチャー",
     "image": "20240608_creature.svg",
     "category": "other"
   },
   {
-    "id": 22,
     "title": "柊鰯",
     "image": "20240608_hiiragi.svg",
     "category": "other"
   },
   {
-    "id": 23,
     "title": "カシウスの槍",
     "image": "20240607_cassius.svg",
     "category": "pixel"
   },
   {
-    "id": 24,
     "title": "公衆電話モチーフのプラモニュメント",
     "image": "20240608_plastic_denwa.png",
     "category": "pixel"
   },
   {
-    "id": 25,
     "title": "樽",
     "image": "20240608_taru.png",
     "category": "pixel"
   },
   {
-    "id": 26,
     "title": "寿司(マグロ)",
     "image": "20240608_sushi.png",
     "category": "pixel"
   },
   {
-    "id": 27,
     "title": "岩",
     "image": "20240609_iwa.png",
     "category": "pixel"
   },
   {
-    "id": 28,
     "title": "ペロロジラ",
     "image": "20240609_perorozira.png",
     "category": "pixel"
   },
   {
-    "id": 29,
     "title": "レンガ壁",
     "image": "20240610_renga.png",
     "category": "pixel"
   },
   {
-    "id": 30,
     "title": "オール・フォー・ワン",
     "image": "20240610_allforone.png",
     "category": "pixel"
   },
   {
-    "id": 31,
     "title": "PC",
     "image": "20240611_pc.png",
     "category": "pixel"
   },
   {
-    "id": 32,
     "title": "TV",
     "image": "20240611_tv.png",
     "category": "pixel"
   },
   {
-    "id": 33,
     "title": "カメラ",
     "image": "20240612_camera.png",
     "category": "pixel"
   },
   {
-    "id": 34,
     "title": "ラジカセ",
     "image": "20240612_radio.png",
     "category": "pixel"
   },
   {
-    "id": 35,
     "title": "銀だこ(てりたま)",
     "image": "20240612_takoyaki.png",
     "category": "pixel"
   },
   {
-    "id": 36,
     "title": "家",
     "image": "20240613_home.png",
     "category": "pixel"
   },
   {
-    "id": 37,
     "title": "下北沢のツチノコ",
     "image": "20240613_tutinokobotti.png",
     "category": "pixel"
   },
   {
-    "id": 38,
     "title": "クジラ",
     "image": "20240614_kuzira.png",
     "category": "pixel"
   },
   {
-    "id": 39,
     "title": "ドードー",
     "image": "20240614_dodo.png",
+    "category": "pixel"
+  },
+  {
+    "title": "りんご",
+    "image": "20240615_rinngo.png",
+    "category": "pixel"
+  },
+  {
+    "title": "バナナ",
+    "image": "20240616_banana.png",
+    "category": "pixel"
+  },
+  {
+    "title": "縫いぐるみ(熊)",
+    "image": "20240616_stuffedtoy.png",
+    "category": "pixel"
+  },
+  {
+    "title": "チーバくん",
+    "image": "20240616_tibakunn.png",
+    "category": "pixel"
+  },
+  {
+    "title": "バイキング",
+    "image": "20240617_baiking.png",
+    "category": "pixel"
+  },
+  {
+    "title": "鉄兜",
+    "image": "20240617_kabuto.png",
+    "category": "pixel"
+  },
+  {
+    "title": "キュゥべえ",
+    "image": "20240617_kyuubee.png",
+    "category": "pixel"
+  },
+  {
+    "title": "すかいらーく",
+    "image": "20240617_skyrark.png",
+    "category": "pixel"
+  },
+  {
+    "title": "木製鎧",
+    "image": "20240618_kawanoyoroi.png",
+    "category": "pixel"
+  },
+  {
+    "title": "ブルーアーカイブ(鬼方カヨコ)",
+    "image": "20240618_kayoko.png",
+    "category": "pixel"
+  },
+  {
+    "title": "鉄鎧",
+    "image": "20240618_tetunoyoroi.png",
+    "category": "pixel"
+  },
+  {
+    "title": "ブルーアーカイブ(小鳥遊ホシノ)",
+    "image": "20240619_hosino.png",
+    "category": "pixel"
+  },
+  {
+    "title": "カボチャマン",
+    "image": "20240619_kabotya.png",
+    "category": "pixel"
+  },
+  {
+    "title": "黒いドラゴン",
+    "image": "20240620_doragon.png",
+    "category": "pixel"
+  },
+  {
+    "title": "バーミヤン",
+    "image": "20240621_ba-miyan.png",
+    "category": "pixel"
+  },
+  {
+    "title": "エイ",
+    "image": "20240621_ei.png",
+    "category": "pixel"
+  },
+  {
+    "title": "すしおんど",
+    "image": "20240622_susionndo.png",
+    "category": "pixel"
+  },
+  {
+    "title": "すしおんど",
+    "image": "20240622_susionndo_yellow.png",
+    "category": "pixel"
+  },
+  {
+    "title": "焚火(アニメーション)",
+    "image": "20240622_takibi.gif",
+    "category": "pixel"
+  },
+  {
+    "title": "焚火(コマ打ち)",
+    "image": "20240622_takibi.png",
+    "category": "pixel"
+  },
+  {
+    "title": "アイアンマン マーク3",
+    "image": "20240623_aiannman.png",
+    "category": "pixel"
+  },
+  {
+    "title": "爆弾(アニメーション)",
+    "image": "20240623_bakudan.png",
+    "category": "pixel"
+  },
+  {
+    "title": "爆弾(コマ打ち)",
+    "image": "20240623_bakudan.png",
+    "category": "pixel"
+  },
+  {
+    "title": "モンスター",
+    "image": "20240624_monstar_01.png",
+    "category": "pixel"
+  },
+  {
+    "title": "レアモンスター",
+    "image": "20240624_monstar_02.png",
+    "category": "pixel"
+  },
+  {
+    "title": "キングダムハーツ(ソラ)",
+    "image": "20240624_sora.png",
+    "category": "pixel"
+  },
+  {
+    "title": "モンスター(進化1)",
+    "image": "20240625_monstar_03.png",
+    "category": "pixel"
+  },
+  {
+    "title": "モンスター(進化2)",
+    "image": "20240625_monstar_04.png",
+    "category": "pixel"
+  },
+  {
+    "title": "土ブロック",
+    "image": "20240626_kusamura.png",
+    "category": "pixel"
+  },
+  {
+    "title": "地面ブロック(床)",
+    "image": "20240626_tuti_01.png",
+    "category": "pixel"
+  },
+  {
+    "title": "地面ブロック",
+    "image": "20240626_tuti_02.png",
+    "category": "pixel"
+  },
+  {
+    "title": "岩",
+    "image": "20240627_iwa.png",
+    "category": "pixel"
+  },
+  {
+    "title": "木柵",
+    "image": "20240627_saku.png",
+    "category": "pixel"
+  },
+  {
+    "title": "サラリーマン(男1)",
+    "image": "20240628_sarariman_01.png",
+    "category": "pixel"
+  },
+  {
+    "title": "サラリーマン(男2)",
+    "image": "20240628_sarariman_02.png",
+    "category": "pixel"
+  },
+  {
+    "title": "サラリーマン(男3)",
+    "image": "20240628_sarariman_03.png",
+    "category": "pixel"
+  },
+  {
+    "title": "サラリーマン(女)",
+    "image": "20240628_sarariman_04.png",
+    "category": "pixel"
+  },
+  {
+    "title": "ベテラン料理人",
+    "image": "20240629_cook_01.png",
+    "category": "pixel"
+  },
+  {
+    "title": "新入り料理人",
+    "image": "20240629_cook_02.png",
+    "category": "pixel"
+  },
+  {
+    "title": "研究者(男)",
+    "image": "20240629_kennkyuusya_01.png",
+    "category": "pixel"
+  },
+  {
+    "title": "研究者(女)",
+    "image": "20240629_kennkyuusya_02.png",
     "category": "pixel"
   }
 ]
